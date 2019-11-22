@@ -14,7 +14,7 @@ Now we have a faster PyTorch implementation, and we also support [SMIL](https://
 
 The author-provided implementation was mainly based on [chumpy](https://github.com/mattloper/chumpy) in Python 2, which is kind of unpopular. Meanwhile, the official version cannot run on GPU. This project provides Numpy, TensorFlow and PyTorch implementation of SMPL model.
 
-For more details about SMPL model, see [SMPL](http://smpl.is.tue.mpg.de/).
+For more details about SMPL model, see [SMPL](http://smpl.is.tue.mpg.de/) and its [review](https://pyhuman.readthedocs.io/en/latest/notes/review_smpl.html).
 
 ### Numpy and Tensorflow Implementation
 
